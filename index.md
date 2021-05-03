@@ -3,11 +3,7 @@
 ---
 
 [Maximizing Loan Aceeptance with Minimum Default](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thumb_bank.png"/>
 
 ---
 
