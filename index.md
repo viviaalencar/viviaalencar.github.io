@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 Title](/sample_page)
+[Maximizing Loan Aceeptance with Minimum Default](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
