@@ -1,6 +1,7 @@
 ## Portfolio
-
 ---
+
+## Credit Risk
 
 [Maximizing Loan Aceeptance with Minimum Default](/sample_page)
 <img src="images/thumb_bank.png"/>
