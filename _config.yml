@@ -1,8 +1,10 @@
 title: Vívia Alencar # your name (or website title) here
 logo: "/images/foto.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist  
-  <br><br>
+
+  <p align="center">Data Scientist 
+  </p>
+ 
   
   <br><br>
   <a href="https://www.linkedin.com/in/viviaalencar/?locale=en_US">View My LinkedIn Profile</a> 
