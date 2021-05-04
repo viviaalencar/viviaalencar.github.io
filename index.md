@@ -3,7 +3,7 @@
 
 ## Credit Risk
 
-[Maximizing Loan Aceeptance with Minimum Default] (/https://github.com/viviaalencar/credit_risk_analysis)
+[Maximizing Loan Aceeptance with Minimum Default](/https://github.com/viviaalencar/credit_risk_analysis)
 
 
 Credit risk is associated with the possibility of a client failing to meet contractual obligations, such as mortgages, credit card debts, and other types of loans.
